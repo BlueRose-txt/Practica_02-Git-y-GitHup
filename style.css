@@ -93,3 +93,9 @@ input{
     margin-top: 20px;
     color: rgb(223, 80, 187);
 }
+ /*ESTO LO HIZO PITOT */
+
+ section{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+ }
