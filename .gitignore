@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store (Es un archivo del sistema para masOS)
+*.log
+.env
+confi.env
+usuarios.txt
